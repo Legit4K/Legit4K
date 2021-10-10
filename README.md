@@ -1,6 +1,6 @@
 ### Hey humans! 👋
 
-I am Legit, founder of The GCord Project and Minecraft Anarchy Server 4b4t+
+I am Legit, founder of Luminoux Studios
 
 - 👽 I'm a Technology Enthusiast!
 - 👀 Currently working on AI PvP Bots in Minecraft
