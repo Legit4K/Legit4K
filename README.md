@@ -1,9 +1,9 @@
-### Hey humans! 👋
+### Sup 👋
 
 I am Legit, founder of Luminoux World
 
-- 👽 I'm a Technology Enthusiast!
-- 👀 Currently working on Wordle For Discord [here](https://discord.gg/luminoux)
+- 🧬 I'm a Tech & Science Enthusiast
+- 👀 Currently working on Gemini Unlocked
 - 🛸 I'm available for hire - discord bots only!
 - ♟️ I'm learning Javascript (NodeJS) and Python
-- 🍰 You can reach me on Discord: [@Legit#9654](https://discord.gg/luminoux)
+- 🍰 You can reach me on Discord: @legit4k
